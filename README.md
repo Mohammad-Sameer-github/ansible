@@ -24,7 +24,7 @@
 ## Setup Instructions
 1. Clone this repository to your local machine:
 ```bash
-git clone https://github.com/Mohammad-Sameer-github/Ansible.git
+git clone https://github.com/Mohammad-Sameer-github/ansible.git
 ```
 ## Resources
 [Official Ansible Documentation](https://docs.ansible.com/)
