@@ -1,17 +1,23 @@
-# Course Content
-## Module 1: Introduction to Ansible
+# Ansible Training Course
+Welcome to the Ansible Training Course repository! This repository contains all the resources, materials, and instructions for the Ansible training course.
+
+## Description
+This training course is designed to provide participants with a comprehensive understanding of Ansible, a powerful automation tool used for configuration management, application deployment, and orchestration. Throughout the course, participants will learn the fundamentals of Ansible, including installation, basic concepts, playbooks, roles, and best practices for managing infrastructure and applications efficiently.
+
+## Course Content
+### Module 1: Introduction to Ansible
 - Overview of Ansible
 - Installation and setup
 - Ansible architecture
 - Ansible terminology
 
-## Module 2: Ansible Basics
+### Module 2: Ansible Basics
 - Inventory files
 - Ad-hoc commands
 - Writing playbooks
 - YAML syntax
 
-## Module 3: Playbooks and Roles
+### Module 3: Playbooks and Roles
 - Organizing playbooks
 - Variables and facts
 - Handlers
